@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+/*crea el inverso de números*/
+
 float numerosinvertidos(int m) {
 	int i = 1;
 	float inv;
